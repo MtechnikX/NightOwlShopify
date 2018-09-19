@@ -3,7 +3,7 @@ The codes below is a skeleton of what you can copy and use for an example and bu
 
 ![](blob:chrome-extension://cdneggiaafcmelgcaiihmhiagieomgfj/92e82803-6111-430e-9941-4497d845c2b3)
 
-View Here ↙↙↙
+View Here  :arrow_down_small:
 ```
  <div class="page-width">
   <h1 class="small--text-center">{{ page.title }}</h1>
